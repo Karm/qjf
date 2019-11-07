@@ -1,3 +1,7 @@
 .idea
 qjf.iml
 target
+.classpath
+.project
+.settings/
+.vscode/
